@@ -1,0 +1,6 @@
+nicegui
+pandas
+plotly
+pymongo
+dnspython
+python-dotenv
